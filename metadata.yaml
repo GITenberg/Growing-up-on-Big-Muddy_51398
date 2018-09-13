@@ -1,0 +1,40 @@
+_repo: Growing-up-on-Big-Muddy_51398
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Turpin
+    gutenberg_agent_id: '49017'
+    url: http://www.gutenberg.org/2009/agents/49017
+creator:
+  author:
+    agent_name: De Vet, Charles V. (Charles Vincent)
+    aliases:
+    - De Vet, Charles Vincent
+    - Vet, Charles V. de
+    - DeVet, Charles V.
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Diseases -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Extrasolar planets -- Fiction'
+- !lcsh 'Explorers -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- GITenberg
+title: Growing up on Big Muddy
+url: http://www.gutenberg.org/ebooks/51398
